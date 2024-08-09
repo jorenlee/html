@@ -1,1 +1,0 @@
-import{_ as e}from"./DlAUqK2U.js";import{c as s,o as a,a as c}from"./uZImZZjD.js";const t={},n=c("img",{src:"https://lsu-media-styles.sgp1.digitaloceanspaces.com/lsu-public-images/banners/Monthly%20Calendar.png",class:""},null,-1),o=[n];function r(l,i){return a(),s("div",null,o)}const d=e(t,[["render",r]]);export{d as default};
