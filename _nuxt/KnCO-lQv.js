@@ -1,1 +1,0 @@
-import{_ as e}from"./DlAUqK2U.js";import{c as s,o as a,a as t}from"./B06b-Eoo.js";const c={},o=t("img",{src:"https://lsu-media-styles.sgp1.digitaloceanspaces.com/lsu-public-images/banners/CalendarB.jpg",class:""},null,-1),n=[o];function r(l,i){return a(),s("div",null,n)}const m=e(c,[["render",r]]);export{m as default};
