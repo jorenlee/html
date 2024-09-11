@@ -1,0 +1,1 @@
+import{_ as s}from"./DlAUqK2U.js";import{c as e,o as t,a as c}from"./BB2tl_MO.js";const o={},a=c("img",{src:"https://lsu-media-styles.sgp1.digitaloceanspaces.com/lsu-public-images/banners/mikrotik.png",class:"w-full"},null,-1),n=[a];function r(i,l){return t(),e("div",null,n)}const p=s(o,[["render",r]]);export{p as default};
