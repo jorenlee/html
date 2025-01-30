@@ -1,0 +1,42 @@
+      else {
+        // POST request using axios with async/await
+        const payload = {
+          //to: `${this.user.contactEmail} <${this.user.firstName} ${this.user.lastName}>`,
+          to: `${this.user.contactEmail}`,
+          subject: "LSU Account Credentials",
+          message: `
+                    LSU Student ID: <b>${this.user.studentId}</b>
+                    <br/>
+                    <h3 style="margin-bottom:0;">LSU Gmail Account</h3>
+                    Email: <b>${this.user.lsuEmail}</b>
+                    <br>
+                    Password: <b>${this.user.lsuEmailPassword}</b>
+                    <br>
+                    <h3 style="margin-bottom:0;">Canvas Account</h3>
+                    Email: <b>${this.user.canvasEmail}</b>
+                    <br>
+                    Password: <b>${this.user.canvasPassword}</b>
+                    <h3 style="margin-bottom:0;">School Automate</h3>
+                    Username: <b>${this.user.schoolAutomateUsername}</b>
+                    <br>
+                    Password: <b>${this.user.schoolAutomatePassword}</b>
+                    <br><br>
+                    <em>Congratulations! <br>You are now Officially Enrolled in La Salle University!</em>
+                  `,
+          isHtml: true,
+          bcc: "dev@lsu.edu.ph",
+          cc: "npc@lsu.edu.ph",
+        };
+        const secret = sha1(
+          "366ozHZWtk7f" + payload.to + payload.subject + payload.message
+        );
+        axios
+          .post(
+            "https://api.earlp.ru/mail/?key=qxzEU48XEYY4&secret=" + secret,
+            payload
+          )
+          .then(() => { })
+          .catch(() => { });
+        this.sentToEmail = true;
+        setTimeout(() => (this.sentToEmail = false), 1500);
+      }

@@ -1,0 +1,267 @@
+{
+    "administrators": [{
+      "offices": "Office of the President",
+      "headOffice": true,
+      "admins": [
+        {
+          "officeAbbr": "OPR",
+          "designationAbbr": "OPR",
+          "designation": "University President",
+          "name": "Br. Rey Erezare Mejias FSC"
+        },
+        {
+          "officeAbbr": "OPR",
+          "designationAbbr": "OPR",
+          "designation": "Executive Assistant to the President",
+          "name": "Mr. Israel Gallogo"
+        },
+        {
+          "officeAbbr": "OPR",
+          "designationAbbr": "OPR",
+          "designation": "Data Privacy Officer",
+          "name": "Mr. Israel Gallogo"
+        },
+        {
+          "officeAbbr": "OPR",
+          "designationAbbr": "NPC",
+          "designation": "Director, Network, Programs and Computerization",
+          "name": "Mr. Michael John Puertogalera"
+        },
+        {
+          "officeAbbr": "OPR",
+          "designationAbbr": "CEMO",
+          "designation": "Director, Corporate and Executive Management Office",
+          "name": "Ms. Meredith  Embuscado"
+        },
+        {
+          "officeAbbr": "OPR",
+          "designationAbbr": "CEMO",
+          "designation": "Officer, Institutional Quality Assurance and Monitoring",
+          "name": "Ms. Maria Cristina  Llauder"
+        },
+        {
+          "officeAbbr": "OPR",
+          "designationAbbr": "CEMO",
+          "designation": "Officer, Risk Management",
+          "name": "Br. Alexander Ervin Diaz FSC"
+        }
+      ]
+     },
+     {
+      "offices": "Vice-President For Planning & Strategic Services",
+      "headOffice": true,
+      "admins": [
+        {
+          "officeAbbr": "VPSS",
+          "designationAbbr": "VPSS",
+          "designation": "Vice-President For Planning & Strategic Services",
+          "name": "Mr. Raymundo Dolor"
+        },
+        {
+          "officeAbbr": "VPSS",
+          "designationAbbr": "MCO",
+          "designation": "Director, Marketing and Communications",
+          "name": "Br. Alexander Ervin Diaz FSC"
+        },
+        {
+          "officeAbbr": "VPSS",
+          "designationAbbr": "HRD",
+          "designation": "Director, Human Resource Development",
+          "name": "Dr. Daryl Quinco"
+        },
+        {
+          "officeAbbr": "VPSS",
+          "designationAbbr": "HRD",
+          "designation": "Officer, Institutional Learning",
+          "name": "Ms. Naiza Amba"
+        },
+        {
+          "officeAbbr": "VPSS",
+          "designationAbbr": "CPU",
+          "designation": "Officer, Procurement",
+          "name": "Ms. Margeaux Labuga"
+        }
+      ]
+     },
+     {
+      "offices": "Vice-President For Lasallian Mission Services",
+      "headOffice": true,
+      "admins": [
+        {
+          "officeAbbr": "VPLM",
+          "designationAbbr": "VPLM",
+          "designation": "Vice-President, Lasallian Mission",
+          "name": "Mr. Carl Vincent Codera"
+        },
+        {
+          "officeAbbr": "VPLM",
+          "designationAbbr": "SAC",
+          "designation": "Director, Students Activities",
+          "name": "Mr. Cristopher Noronio"
+        },
+        {
+          "officeAbbr": "VPLM",
+          "designationAbbr": "SAC",
+          "designation": "Officer, Leadership Formation and Empowerment",
+          "name": "Mr. Dean Eust'l Lopez"
+        },
+        {
+          "officeAbbr": "VPLM",
+          "designationAbbr": "LLF",
+          "designation": "Officer, Lasallian Life Formation",
+          "name": "Ms. Eva Dawn Balongkit"
+        },
+        {
+          "officeAbbr": "VPLM",
+          "designationAbbr": "ACC",
+          "designation": "Director, Arts and Culture",
+          "name": "Ms. Denise Aguilar"
+        },
+        {
+          "officeAbbr": "VPLM",
+          "designationAbbr": "CCC",
+          "designation": "Director, Career and Counseling",
+          "name": "Mr. Jay Adrian Paciente"
+        },
+        {
+          "officeAbbr": "VPLM",
+          "designationAbbr": "LSMC",
+          "designation": "Director, Lasallian Ministries",
+          "name": "Br. Ivan Karlo Umali FSC"
+        },
+        {
+          "officeAbbr": "VPLM",
+          "designationAbbr": "LSMC",
+          "designation": "Officer, Lasallian Formation",
+          "name": "Ms. Mary Joezl Dumat-ol"
+        },
+        {
+          "officeAbbr": "VPLM",
+          "designationAbbr": "LSMC",
+          "designation": "Coordinator, Vocations",
+          "name": "Br. Ivan Karlo Umali FSC"
+        },
+        {
+          "officeAbbr": "VPLM",
+          "designationAbbr": "SCC",
+          "designation": "Director, Social Concerns",
+          "name": "Ms. Jemarie  Villones"
+        },
+        {
+          "officeAbbr": "VPLM",
+          "designationAbbr": "SCC",
+          "designation": "Officer, Community Organizing",
+          "name": "Ms. Jeanelyn Potestas"
+        },
+        {
+          "officeAbbr": "VPLM",
+          "designationAbbr": "SCC",
+          "designation": "Officer, Advocacy",
+          "name": "Mr. Georey Pescador"
+        },
+        {
+          "officeAbbr": "VPLM",
+          "designationAbbr": "SWC",
+          "designation": "Officer, Sports and Wellness",
+          "name": "Ms. Showery Bless Ponce"
+        },
+        {
+          "officeAbbr": "VPLM",
+          "designationAbbr": "PPC",
+          "designation": "Officer, Practicum and Placement",
+          "name": "Ms. Shaira Joy Antoque"
+        }
+      ]
+     },
+     {
+      "offices": "Vice-President For Finance And Accounting Services",
+      "headOffice": true,
+      "admins": [
+        {
+          "officeAbbr": "VPFAS",
+          "designationAbbr": "VPF",
+          "designation": "Vice-President, Finance and Accounting Services",
+          "name": "Ms. Rose Aimee Mangao"
+        },
+        {
+          "officeAbbr": "VPFAS",
+          "designationAbbr": "BDO",
+          "designation": "Officer, Business Development",
+          "name": "Mr. Dennis Mitchel Dioquino"
+        },
+        {
+          "officeAbbr": "VPFAS",
+          "designationAbbr": "BCC",
+          "designation": "Controller",
+          "name": "Ms. Rose Aimee Mangao"
+        },
+        {
+          "officeAbbr": "VPFAS",
+          "designationAbbr": "BCC",
+          "designation": "Officer, Budget and Cost Control",
+          "name": "Ms. Donnabel Balase"
+        }
+      ]
+     },
+     {
+      "offices": "Vice-President For Administrative Services",
+      "headOffice": true,
+      "admins": [
+        {
+          "officeAbbr": "VPAD",
+          "designationAbbr": "VPAD",
+          "designation": "Vice-President, Administrative Services",
+          "name": "Engr. Flordeliza Cabang"
+        },
+        {
+          "officeAbbr": "VPAD",
+          "designationAbbr": "CDU",
+          "designation": "Officer Campus Development",
+          "name": "Mr. Christian Jason Robles"
+        },
+        {
+          "officeAbbr": "VPAD",
+          "designationAbbr": "GSO",
+          "designation": "Director, General Services",
+          "name": "Ms. Leonila Dolor"
+        },
+        {
+          "officeAbbr": "VPAD",
+          "designationAbbr": "ESU",
+          "designation": "Officer, Environmental Sustainability",
+          "name": "Engr. Esmael Larubis"
+        },
+        {
+          "officeAbbr": "VPAD",
+          "designationAbbr": "ESU",
+          "designation": "Manager, Farm",
+          "name": "Dr. Reggie Macahilo"
+        },
+        {
+          "officeAbbr": "VPAD",
+          "designationAbbr": "ESU",
+          "designation": "Officer, Health Services",
+          "name": "Ms. Maria Diva Dagandara"
+        }
+      ]
+     },
+     {
+      "offices": "Vice-President For Advancement And Linkages Services",
+      "headOffice": true,
+      "admins": [
+        {
+          "officeAbbr": "VPALS",
+          "designationAbbr": "VPALS",
+          "designation": "Vice-President, Advancement and Linkages Services",
+          "name": "Dr. Irene Eguico"
+        },
+        {
+          "officeAbbr": "VPALS",
+          "designationAbbr": "VPALS",
+          "designation": "Officer TESDA Programs",
+          "name": "Ms. Roselyn Tuastomban"
+         }
+      ]
+     }
+    ]
+  }

@@ -1,0 +1,217 @@
+[
+    {
+        "program": "Bachelor of Science in Business Administration (BSBA)",
+        "college": "CBA",
+        "college_details": "CBA (College of Business and Accountancy)"
+    },
+    {
+        "program": "Bachelor of Science in Accounting Information System (BSAIS)",
+        "college": "CBA",
+        "college_details": "CBA (College of Business and Accountancy)"
+    },
+    {
+        "program": "Bachelor of Science in Accountancy (BSAc)",
+        "college": "CBA",
+        "college_details": "CBA (College of Business and Accountancy)"
+    },
+    {
+        "program": "Bachelor of Science in Accountancy (BSA)",
+        "college": "CBA",
+        "college_details": "CBA"
+    },
+    {
+        "program": "Bachelor of Science in Business Administration Major in Financial Management (BSBAFM)",
+        "college": "CBA",
+        "college_details": "CBA"
+    },
+    {
+        "program": "Bachelor of Science in Business Administration Major in Marketing Management (BSBAMM)",
+        "college": "CBA",
+        "college_details": "CBA"
+    },
+    {
+        "program": "Bachelor of Science in Business Administration Major in Marketing Management (BSBAMM)",
+        "college": "CBA",
+        "college_details": "CBA"
+    },
+    {
+        "program": "Bachelor of Science in Office Administration (BSOA)",
+        "college": "CBA",
+        "college_details": "CBA"
+    },
+    {
+        "program": "Bachelor of Science in Agribusiness (BSAgriBus)",
+        "college": "CBA",
+        "college_details": "CBA"
+    },
+    {
+        "program": "Bachelor of Science in Civil Engineering (BSCE)",
+        "college": "CCSEA",
+        "college_details": "CCSEA (College of Computer Studies, Engineering, and Architecture)"
+    },
+    {
+        "program": "Bachelor of Science in Architecture (BSArch)",
+        "college": "CCSEA",
+        "college_details": "CCSEA (College of Computer Studies, Engineering, and Architecture)"
+    },
+    {
+        "program": "Bachelor of Science in Electrical Engineering (BSEE)",
+        "college": "CCSEA",
+        "college_details": "CCSEA (College of Computer Studies, Engineering, and Architecture)"
+    },
+    {
+        "program": "Bachelor of Science in Electronics Engineering (BSECE)",
+        "college": "CCSEA",
+        "college_details": "CCSEA (College of Computer Studies, Engineering, and Architecture)"
+    },
+    {
+        "program": "Bachelor of Science in Geodetic Engineering (BSGE)",
+        "college": "CCSEA",
+        "college_details": "CCSEA (College of Computer Studies, Engineering, and Architecture)"
+    },
+    {
+        "program": "Bachelor of Science in Computer Science (BSCS)",
+        "college": "CCSEA",
+        "college_details": "CCSEA (College of Computer Studies, Engineering, and Architecture)"
+    },
+    {
+        "program": "Bachelor of Science in Information Technology (BSIT)",
+        "college": "CCSEA",
+        "college_details": "CCSEA (College of Computer Studies, Engineering, and Architecture)"
+    },
+    {
+        "program": "Bachelor of Library and Information Science (BLIS)",
+        "college": "CCSEA",
+        "college_details": "CCSEA (College of Computer Studies, Engineering, and Architecture)"
+    },
+    {
+        "program": "Bachelor of Science in Computer Engineering (BSCpE)",
+        "college": "CCSEA",
+        "college_details": "CCSEA (College of Computer Studies, Engineering, and Architecture)"
+    },
+    {
+        "program": "Bachelor of Science Electronics Engineering (BSEE)",
+        "college": "CCSEA",
+        "college_details": "CCSEA (College of Computer Studies, Engineering, and Architecture)"
+    },
+    {
+        "program": "Bachelor of Arts in English Language Studies (BAELS)",
+        "college": "CAS",
+        "college_details": "CAS"
+    },
+    {
+        "program": "Bachelor of Arts in Political Science (BAPolSc)",
+        "college": "CAS",
+        "college_details": "CAS"
+    },
+    {
+        "program": "Bachelor of Science in Psychology (BSPsych)",
+        "college": "CAS",
+        "college_details": "CAS"
+    },
+    {
+        "program": "Bachelor of Arts in Communication (BAComm)",
+        "college": "CAS",
+        "college_details": "CAS"
+    },
+    {
+        "program": "Bachelor of Science in Social Work (BSSW)",
+        "college": "CAS",
+        "college_details": "CAS"
+    },
+    {
+        "program": "Bachelor of Arts in Philosophy (BAPhilo)",
+        "college": "CAS",
+        "college_details": "CAS"
+    },
+    {
+        "program": "Bachelor of Arts in Psychology (BSPsych)",
+        "college": "CAS",
+        "college_details": "CAS"
+    },
+    {
+        "program": "Bachelor of Science in Criminology (BSCrim)",
+        "college": "CCJE",
+        "college_details": "CCJE"
+    },
+    {
+        "program": "Bachelor of Elementary Education (BEEd)",
+        "college": "CTE",
+        "college_details": "CTE"
+    },
+    {
+        "program": "Bachelor of Secondary Education (BSEd)",
+        "college": "CTE",
+        "college_details": "CTE"
+    },
+    {
+        "program": "Bachelor of Special Needs Education (BSNEd)",
+        "college": "CTE",
+        "college_details": "CTE"
+    },
+    {
+        "program": "Bachelor of Physical Education (BPEd)",
+        "college": "CTE",
+        "college_details": "CTE"
+    },
+    {
+        "program": "Bachelor of Technology and Livelihood Education (BTLEd)",
+        "college": "CTE",
+        "college_details": "CTE"
+    },
+    {
+        "program": "Bachelor of Secondary Education Major in English Language (BSEd-Eng)",
+        "college": "CTE",
+        "college_details": "CTE"
+    },
+    {
+        "program": "Bachelor of Secondary Education Major in Filipino Language (BSEd-Fil)",
+        "college": "CTE",
+        "college_details": "CTE"
+    },
+    {
+        "program": "Bachelor of Secondary Education Major in Mathematics (BSEd-Math)",
+        "college": "CTE",
+        "college_details": "CTE"
+    },
+    {
+        "program": "Bachelor of Secondary Education Major in Science (BSEd-Sci)",
+        "college": "CTE",
+        "college_details": "CTE"
+    },
+    {
+        "program": "Bachelor of Secondary Education Major in Social Studies (BSEd-SocStud)",
+        "college": "CTE",
+        "college_details": "CTE"
+    },
+    {
+        "program": "Bachelor of Secondary Education Major in Values Education (BSEd-ValEd)",
+        "college": "CTE",
+        "college_details": "CTE"
+    },
+    {
+        "program": "Bachelor of Technology and Livelihood Education-Home Economics (BTLE-HE)",
+        "college": "CTE",
+        "college_details": "CTE"
+    },
+    {
+        "program": "Bachelor of Physical Education (BPE)",
+        "college": "CTE",
+        "college_details": "CTE"
+    },
+    {
+        "program": "Bachelor of Science in Hospitality Management (BSHM)",
+        "college": "CTHM",
+        "college_details": "CTHM"
+    },
+    {
+        "program": "Bachelor of Science in Tourism Management (BSTM)",
+        "college": "CTHM",
+        "college_details": "CTHM"
+    },
+    {
+        "program": "Bachelor of Science in Nursing (BSN)",
+        "college": "CON",
+        "college_details": "CON"
+    }
+]

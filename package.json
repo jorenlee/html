@@ -1,0 +1,61 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/ui": "^2.18.4",
+    "autoprefixer": "^10.4.14",
+    "nuxt": "^3.10.1",
+    "nuxt-lodash": "^2.4.1",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
+  },
+  "overrides": {
+    "vue": "latest"
+  },
+  "dependencies": {
+    "@gtm-support/vue-gtm": "^2.0.0",
+    "@nozomuikuta/h3-cors": "^0.2.2",
+    "@nuxtjs/google-adsense": "^3.0.0",
+    "@nuxtjs/recaptcha": "^1.1.2",
+    "@pinia/nuxt": "^0.4.11",
+    "@tinymce/tinymce-vue": "^5.1.0",
+    "@vavt/md-editor-extension": "^3.0.0",
+    "@vuepic/vue-datepicker": "^4.3.0",
+    "@vueuse/core": "^10.11.1",
+    "axios": "^1.4.0",
+    "chart.js": "^4.4.3",
+    "charts.css": "^1.1.0",
+    "consola": "^3.1.0",
+    "dropzone": "^6.0.0-beta.2",
+    "filepond": "^4.30.4",
+    "firebase": "^9.22.0",
+    "jw-vue-pagination": "^1.0.3",
+    "md-editor-v3": "^4.0.1",
+    "moment": "^2.29.4",
+    "next-auth": "^4.24.10",
+    "nitro-cors": "^0.6.0",
+    "nitropack": "^2.8.1",
+    "nodemailer": "^6.9.3",
+    "nuxt-mail": "^4.0.1",
+    "nuxt-mailer": "^0.11.0",
+    "nuxt-vue3-google-signin": "^0.0.8",
+    "pinia": "^2.1.7",
+    "sass": "^1.59.3",
+    "tw-elements": "^1.0.0-beta2",
+    "validator": "^13.9.0",
+    "vue-awesome-paginate": "^1.1.46",
+    "vue-chartjs": "^5.3.1",
+    "vue-fb-customer-chat": "^0.2.2",
+    "vue-filepond": "^7.0.3",
+    "vue-gtag-next": "^1.14.0",
+    "vue-latest-table": "^1.0.5",
+    "vue-qrcode-component": "^2.1.1",
+    "vue-social-sharing": "^4.0.0-alpha4"
+  }
+}

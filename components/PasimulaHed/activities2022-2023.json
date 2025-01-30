@@ -1,0 +1,327 @@
+{
+ "administrators": [{
+   "offices": "August 7, 2023 (First Day)",
+   "headOffice": true,
+   "admins": [{
+     "designationAbbr": "6:00 AM-8:30 AM",
+     "designation": "Welcoming New Students",
+     "name": "Facade"
+    },
+    {
+     "designationAbbr": "6:00 AM-8:30 AM",
+     "designation": "Attendance",
+     "name": "LSU Oval"
+    },
+    {
+     "designationAbbr": "8:30 AM-9:30 AM",
+     "designation": "Eucharistic Mass and Mass Sponsor: USG & CBA",
+     "name": "Arts Center"
+    },
+    {
+     "designationAbbr": "9:30 AM-11:30 AM",
+     "designation": "Opening Program and Orientation about Campus Safety and Protocols",
+     "name": "Arts Center"
+    },
+    {
+     "designationAbbr": "11:30 AM - 12:00 PM",
+     "designation": "Judging of the Cleanest Quarters",
+     "name": "College Booths"
+    }
+   ]
+  },
+  {
+   "offices": "Lunch Break",
+   "lunch": true,
+   "admins": [
+    {
+    "designationAbbr": "12:30 PM-1:00 PM",
+    "designation": "Attendance",
+    "name": "LSU Oval"
+   },
+   {
+    "designationAbbr": "1:00 PM-4:00 PM",
+    "designation": "Orientation About Discipline, Student Handbook, School Policy and Lasallian Culture. (Froshies)",
+    "name": "Rooms (TBA)"
+   },
+   {
+    "designationAbbr": "1:00 PM-4:00 PM",
+    "designation": "Orientation About Discipline, Student Handbook, School Policy, and Lasallian Culture. (Continuing Students)",
+    "name": "Art Center"
+   },
+   {
+    "designationAbbr": "4:00 PM-5:00 PM",
+    "designation": "Campus Tour for FROSHIES",
+    "name": "LSU Campus 1 and 2"
+   },
+   {
+    "designationAbbr": "4:00 PM-5:00 PM",
+    "designation": "E-Games (ML, COD) Open Category",
+    "name": "Umbrella"
+   },
+   {
+    "designationAbbr": "4:00 PM-5:00 PM",
+    "designation": "Zumba and Enlistment, Visitation of Booths (IBO, ABO, CG)",
+    "name": "Art Center"
+   },
+   {
+    "designationAbbr": "5:00 PM-5:30 PM",
+    "designation": "Pahina sa La Salle (To be participated by the CAS & CCJE Students)",
+    "name": "LSU Campus"
+   },
+   {
+    "designationAbbr": "5:00 PM-5:30 PM",
+    "designation": "Log-out Attendance",
+    "name": "LSU Oval"
+   },
+   {
+    "designationAbbr": "5:00 PM-5:30 PM",
+    "designation": "Judging of the Cleanest Quarters",
+    "name": "College Booths"
+   }
+  ]
+ },
+  {
+   "offices": "August 8, 2023 (Second Day) Academic Orientation",
+   "headOffice": true,
+   "admins": [
+    {
+    "designationAbbr": "7:00 AM-8:30 AM",
+    "designation": "Log-in Attendance",
+    "name": "LSU Oval"
+   },
+   {
+    "designationAbbr": "9:00 AM-11:30 AM",
+    "designation": "Orientation on the University Vision and Mission Institutional Learning Outcomes and other Institutional Policies and Activities",
+    "sublists": [
+     "Class Shifting Schedule",
+     "Examination Schedule",
+     "Academic Advising Program",
+     "Policies on Absences and Tardiness",
+     "Policies on Grade Consultation and Correction"
+    ],
+    "name": "Art Center"
+   },
+   {
+    "designationAbbr": "11:30 AM - 12:00 PM",
+    "designation": "Judging Of the Cleanest Quarters",
+    "name": "College Booths"
+   }
+  ]
+  },
+  {
+   "offices": "Lunch Break",
+   "lunch": true,
+   "admins": [
+    {
+     "designationAbbr": "12:45 PM-1:30 PM",
+     "designation": "Log-in Attendance",
+     "name": "LSU Oval"
+    },
+    {
+     "designationAbbr": "1:30 PM-3:00 PM",
+     "designation": "College of Nursing",
+     "name": "Arts Center"
+    },
+    {
+     "designationAbbr": "1:30 PM-3:00 PM",
+     "designation": "College of Computer Studies, Engineering and Architecture",
+     "name": "Deportivo"
+    },
+    {
+     "designationAbbr": "1:30 PM-3:00 PM",
+     "designation": "College of Tourism and Hospitality Management",
+     "name": "Banquet Hall"
+    },
+    {
+     "designationAbbr": "1:30 PM-3:00 PM",
+     "designation": "College of Business and Accountancy",
+     "name": "SJ Rooms"
+    },
+    {
+     "designationAbbr": "1:30 PM-3:00 PM",
+     "designation": "College of Arts and Sciences",
+     "name": "SJ Rooms"
+    },
+    {
+     "designationAbbr": "1:30 PM-3:00 PM",
+     "designation": "College of Teacher Education",
+     "name": "IS Auditorium"
+    },
+    {
+     "designationAbbr": "3:00 PM-4:30 PM",
+     "designation": "College of Criminal Justice Education",
+     "name": "Arts Center"
+    },
+    {
+     "designationAbbr": "4:00 PM-5:00 PM",
+     "designation": "Eucharistic Mass and Mass Sponsor: CON & CAS",
+     "name": "Star Chapel"
+    },
+    {
+     "designationAbbr": "4:00 PM-5:00 PM",
+     "designation": "Pahina sa La Salle (To be participated by CCSEA & CBA)",
+     "name": ""
+    },
+    {
+     "designationAbbr": "5:00 PM-5:30 PM",
+     "designation": "Log-out Attendance",
+     "name": "LSU Oval"
+    },
+    {
+     "designationAbbr": "5:00 PM-5:30 PM",
+     "designation": "Judging of the Cleanest Quarters",
+     "name": "College Booths"
+    }
+   ]
+  },
+  {
+   "offices": "August 9, 2023 (Third Day)",
+   "headOffice": true,
+   "admins": [
+    {
+     "designationAbbr": "7:00 AM-8:30 AM",
+     "designation": "Log-in Attendance",
+     "name": "LSU Oval"
+    },
+    {
+     "designationAbbr": "8:30 AM -12:00 AM",
+     "designation": "Orientation about Student Services, College Cheers and Student Engagement Orientation",
+     "name": "College Booths"
+    }
+   ]
+  },
+  {
+   "offices": "Lunch break",
+   "lunch": true,
+   "admins": [
+    {
+     "designationAbbr": "12:45 PM - 1:30 PM",
+     "designation": "Log-in Attendance",
+     "name": "LSU Oval"
+    },
+    {
+     "designationAbbr": "1:30 PM - 4:00 PM",
+     "designation": "E-Games (ML, COD) Open Category Championship",
+     "name": "Umbrella"
+    },
+    {
+     "designationAbbr": "1:30 PM - 4:00 PM",
+     "designation": "Canvas Painting Contest",
+     "name": "SB 301"
+    },
+    {
+     "designationAbbr": "1:30 PM - 4:00 PM",
+     "designation": "Distribution of Passports",
+     "name": "USG Office"
+    },
+    {
+     "designationAbbr": "1:30 PM - 4:00 PM",
+     "designation": "Shoot your Trash",
+     "name": "Theater in the Woods"
+    },
+    {
+     "designationAbbr": "1:30 PM - 4:00 PM",
+     "designation": "Paint War",
+     "name": "Oval"
+    },
+    {
+     "designationAbbr": "1:30 PM - 4:00 PM",
+     "designation": "Catch the Dragon’s Tail",
+     "name": "Deportivo"
+    },
+    {
+     "designationAbbr": "1:30 PM - 4:00 PM",
+     "designation": "Enlistment, Visitation of Booths (IBO, ABO, CG)",
+     "name": "LS Lobby and Hallway"
+    },
+    {
+     "designationAbbr": "3:30 PM - 4:00 PM",
+     "designation": "Zumba",
+     "name": "SC Ground"
+    },
+    {
+     "designationAbbr": "4:00 PM - 4:45 PM",
+     "designation": "Eucharistic Mass and Mass Sponsor: CCSEA & CTHM",
+     "name": "Star Chapel"
+    },
+    {
+     "designationAbbr": "4:00 PM - 4:45 PM",
+     "designation": "Pahina sa La Salle (To be participated by CTE, CON, CTHM)",
+     "name": ""
+    },
+    {
+     "designationAbbr": "4:30 PM - 5:00 PM",
+     "designation": "Log-out Attendance",
+     "name": "LSU Oval"
+    },
+    {
+     "designationAbbr": "4:30 PM - 5:00 PM",
+     "designation": "Judging of the Cleanest Quarters",
+     "name": "College Booths"
+    }
+   ]
+  },
+  {
+   "offices": "August 10, 2023 (Fourth Day)",
+   "headOffice": true,
+   "admins": [
+    {
+     "designationAbbr": "7:00 AM - 8:00 AM",
+     "designation": "Log-in Attendance",
+     "name": "LSU Oval"
+    },
+    {
+     "designationAbbr": "8:00 AM- 9:00 AM",
+     "designation": "Election of IBO Officers and Orientation of the Organizations",
+     "name": "SJ Building (Subject to Change)"
+    },
+    {
+     "designationAbbr": "9:00 AM - 11:30 AM",
+     "designation": "Battle of the Brains",
+     "name": "Deportivo"
+    }
+   ]
+  },
+  {
+   "offices": "Lunch Break",
+   "lunch": true,
+   "admins": [
+    {
+     "designationAbbr": "12:45 PM - 1:30 PM",
+     "designation": "Log-in Attendance",
+     "name": "LSU Oval"
+    },
+    {
+     "designationAbbr": "12:45 PM - 1:30 PM",
+     "designation": "Final Judging of the Cleanest Quarters",
+     "name": "College Booths"
+    },
+    {
+     "designationAbbr": "1:30 PM - 2:30 PM",
+     "designation": "Eucharistic Mass and Mass Sponsor: CTHM & CCJE",
+     "name": "Arts Center"
+    },
+    {
+     "designationAbbr": "2:30 PM-6:00 PM",
+     "designation": "Band Presentations",
+     "name": "Arts Center"
+    },
+    {
+     "designationAbbr": "2:30 PM-6:00 PM",
+     "designation": "Closing Program",
+     "name": "Arts Center"
+    },
+    {
+     "designationAbbr": "6:00 PM-8:30 PM",
+     "designation": "Rave Party",
+     "name": "Arts Center"
+    },
+    {
+     "designationAbbr": "8:30 PM-9:00 PM",
+     "designation": "Pahina sa La Salle (To be participated by all)",
+     "name": "Arts Center"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+  "administrators": [{
+    "offices": "November 7, 2023 Tuesday",
+    "headOffice": true,
+    "admins": [{
+      "designationAbbr": "8:00 AM - 9:30 AM",
+      "designation": "Eucharistic Celebration",
+      "name": "Art Center"
+     },
+     {
+      "designationAbbr": "9:30 AM - 10:00 AM",
+      "designation": "Break",
+      "name": "Art Center"
+     },
+     {
+      "designationAbbr": "10:00 AM - 12:00 NN",
+      "designation": "Basic Education Panaghugpong Opening Program",
+      "name": "Art Center"
+     }
+    ]
+   },
+   {
+    "offices": "Lunch break",
+    "lunch": true,
+    "admins": [
+     {
+      "designationAbbr": "1:00 PM - 4:30 PM",
+      "designation": "Sports Events/Grades 1-6 Cheerdance Competition",
+      "name": "Campus 2/Art Center"
+     }
+    ]
+   },
+   {
+    "offices": "November 8-9, 2023 Wednesday and Thursday",
+    "headOffice": true,
+    "admins": [
+     {
+      "designationAbbr": "7:30 AM - 11:50 AM",
+      "designation": "Sports Events",
+      "name": "Campus 2"
+     }
+    ]
+   },
+   {
+    "offices": "Lunch Break",
+    "lunch": true,
+    "admins": [
+     {
+       "designationAbbr": "1:00 PM - 4:30 PM",
+       "designation": "Sports Events",
+       "name": "Campus 2"
+     }
+    ]
+   },
+   {
+     "offices": "November 10, 2023 Friday",
+     "headOffice": true,
+     "admins": [
+      {
+       "designationAbbr": "7:30 AM - 11:50 AM",
+       "designation": "Volleyball and Basketball Championship Games",
+       "name": "Art Center"
+      }
+     ]
+   },
+   {
+     "offices": "Lunch Break",
+     "lunch": true,
+     "admins": [
+      {
+        "designationAbbr": "1:00 PM - 5:00 PM",
+        "designation": "Balay-Balay Cheerdance and Competition/Closing Program",
+        "name": "Art Center"
+      }
+     ]
+    }
+  ]
+}
