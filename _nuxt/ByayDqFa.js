@@ -1,0 +1,1 @@
+import{_ as s}from"./DlAUqK2U.js";import{c as t,a,o}from"./CbicHviF.js";const c={};function n(r,e){return o(),t("div",null,e[0]||(e[0]=[a("object",{class:"pdf",data:"https://lsu-media-styles.sgp1.digitaloceanspaces.com/lsu-public-images/banners/LSU-ISO-Cert.pdf",width:"100%",height:"1000"},null,-1)]))}const d=s(c,[["render",n]]);export{d as default};
