@@ -1,1 +1,0 @@
-import{_ as r}from"./DlAUqK2U.js";import{c as o,a as n,o as t}from"./s-5z11Ob.js";const a={};function c(s,e){return t(),o("div",null,e[0]||(e[0]=[n("h1",null,"Track",-1)]))}const _=r(a,[["render",c]]);export{_ as default};
