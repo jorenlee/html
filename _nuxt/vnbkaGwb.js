@@ -1,1 +1,0 @@
-import{_ as o}from"./DlAUqK2U.js";import{c as n,a as r,o as t}from"./UIhQ4Kc0.js";const s={};function a(c,e){return t(),n("div",null,e[0]||(e[0]=[r("h1",null,"Login",-1)]))}const i=o(s,[["render",a]]);export{i as default};
